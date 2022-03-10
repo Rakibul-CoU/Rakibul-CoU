@@ -21,6 +21,17 @@ Who am I?
 
 📫 How to reach me: shoot an email at "mmdrakibul2912@gmail.com"
 
+### Stats
+
+<p>
+    <a align="left" href="https://github.com/Rakibul-CoU?tab=repositories">
+        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-CoU&count_private=true&theme=cobalt&layout=compact&langs_count=10">
+    </a>
+    <a align="right" href="https://github.com/Rakibul-CoU?tab=repositories">
+        <img alt="MD. Rakibul Islam's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Rakibul-CoU&show_icons=true&theme=cobalt">
+    </a>
+</p>
+
 <h3 align="center">Connect with me:</h3> 
 
 <p align="center">
