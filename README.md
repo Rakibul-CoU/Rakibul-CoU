@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: A small coder with big dreams
-full-width: true
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+MD.+Rakibul+Islam!!!!)](https://git.io/typing-svg)
